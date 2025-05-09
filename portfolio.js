@@ -508,6 +508,27 @@ function MainComponent() {
                 <p className="text-[#8892b0]">LinkedIn Learning</p>
                 <p className="text-[#64ffda] mt-2">2024</p>
               </div>
+              <div className="bg-[#112240] p-6 rounded-lg">
+                <h3 className="text-xl font-bold mb-2">
+                  LLMs as Operating Systems: Agent Memory
+                </h3>
+                <p className="text-[#8892b0]">Deeplearning.ai</p>
+                <p className="text-[#64ffda] mt-2">May 2025</p>
+              </div>
+              <div className="bg-[#112240] p-6 rounded-lg">
+                <h3 className="text-xl font-bold mb-2">
+                  Federated Fine-Tuning of LLMs with Private Data
+                </h3>
+                <p className="text-[#8892b0]">Deeplearning.ai</p>
+                <p className="text-[#64ffda] mt-2">May 2025</p>
+              </div>
+              <div className="bg-[#112240] p-6 rounded-lg">
+                <h3 className="text-xl font-bold mb-2">
+                  Evaluating AI Agents
+                </h3>
+                <p className="text-[#8892b0]">Deeplearning.ai</p>
+                <p className="text-[#64ffda] mt-2">May 2025</p>
+              </div>
             </div>
           </div>
         </section>
@@ -565,6 +586,27 @@ function MainComponent() {
               </h3>
               <p className="text-[#8892b0]">LinkedIn Learning</p>
               <p className="text-[#64ffda] mt-2">2024</p>
+            </div>
+            <div className="bg-[#112240] p-6 rounded-lg">
+              <h3 className="text-xl font-bold mb-2">
+                LLMs as Operating Systems: Agent Memory
+              </h3>
+              <p className="text-[#8892b0]">Deeplearning.ai</p>
+              <p className="text-[#64ffda] mt-2">May 2025</p>
+            </div>
+            <div className="bg-[#112240] p-6 rounded-lg">
+              <h3 className="text-xl font-bold mb-2">
+                Federated Fine-Tuning of LLMs with Private Data
+              </h3>
+              <p className="text-[#8892b0]">Deeplearning.ai</p>
+              <p className="text-[#64ffda] mt-2">May 2025</p>
+            </div>
+            <div className="bg-[#112240] p-6 rounded-lg">
+              <h3 className="text-xl font-bold mb-2">
+                Evaluating AI Agents
+              </h3>
+              <p className="text-[#8892b0]">Deeplearning.ai</p>
+              <p className="text-[#64ffda] mt-2">May 2025</p>
             </div>
           </div>
         </section>
