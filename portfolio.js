@@ -168,7 +168,7 @@ function MainComponent() {
   const handleDownloadCV = () => {
     const link = document.createElement("a");
     link.href =
-      "https://raw.githubusercontent.com/KeremKurban/portfolio/dcc25058454ced63b0fa7a330a05ad4caf12f473/resumes/CV_22_4_2025.pdf";
+      "https://raw.githubusercontent.com/KeremKurban/portfolio/485847889d35645617434ae9cfb3081c6570e40e/resumes/CV_9_5_2025.pdf";
     link.setAttribute("download", "Kerem_Kurban_CV.pdf");
     document.body.appendChild(link);
     link.click();
@@ -355,6 +355,34 @@ function MainComponent() {
               Experience
             </h3>
             <div className="space-y-8">
+              <div className="bg-[#112240] p-6 rounded-lg">
+                <div className="flex justify-between items-start mb-4">
+                  <div>
+                    <h3 className="text-xl font-bold">
+                      Freelancer in AI and MLOps
+                    </h3>
+                    <p className="text-[#64ffda]">Geneva</p>
+                  </div>
+                  <span className="text-[#8892b0]">01/2025 - Ongoing</span>
+                </div>
+                <ul className="list-disc list-inside text-[#8892b0] space-y-2">
+                  <li>
+                    Application of novel techniques in LLM systems (LoRA, QLoRA, DORA, MoE, SFT)
+                  </li>
+                  <li>
+                    Development and integration of agentic frameworks (Letta, LangChain, Swarm)
+                  </li>
+                  <li>
+                    Federated learning with Flower.ai
+                  </li>
+                  <li>
+                    Implementation of Model Context Protocols (fastMCP)
+                  </li>
+                  <li>
+                    Agentic monitoring and long-term memory solutions
+                  </li>
+                </ul>
+              </div>
               <div className="bg-[#112240] p-6 rounded-lg">
                 <div className="flex justify-between items-start mb-4">
                   <div>
