@@ -168,7 +168,7 @@ function MainComponent() {
   const handleDownloadCV = () => {
     const link = document.createElement("a");
     link.href =
-      "https://raw.githubusercontent.com/KeremKurban/portfolio/485847889d35645617434ae9cfb3081c6570e40e/resumes/CV_9_5_2025.pdf";
+      "https://raw.githubusercontent.com/KeremKurban/portfolio/74a297504137e8d0e30f868b933bc3ee196580e2/resumes/CV_Kerem_Kurban-062026.pdf";
     link.setAttribute("download", "Kerem_Kurban_CV.pdf");
     document.body.appendChild(link);
     link.click();
